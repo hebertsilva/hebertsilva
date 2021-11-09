@@ -2,7 +2,7 @@
 
 My name is Hebert, i'm Software Engineer, Consulting, and Front-end Developer since 2007. Science Computing at UNIFRAN in 2010 and Performing Arts in 2015 at Ribeirão em Cena.
 
-I'm VueJS/NuxtJS Specialist. CEO & Founder at [Uai Creative Solutions](https://github.com/Uai-Creative) development of dreams.
+I'm working with React and Vue on some projects.
 
 🖥 **What's Going on?**
 
