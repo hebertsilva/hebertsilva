@@ -6,7 +6,6 @@ I'm VueJS/NuxtJS Specialist. CEO & Founder at [Uai Creative Solutions](https://g
 
 🖥 **What's Going on?**
 
-- 🔭 I’m currently working on [Uai Creative](https://github.com/Uai-Creative), on [Próxima Porta](https://github.com/proximaporta/) and [Stored](https://github.com/stored)
 - ✍️ I'm currently integrating Rest APIs with Front-end
 - 🌱 Currently learning about Project Management and Team Organization
 
