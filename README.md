@@ -20,3 +20,5 @@ I'm working with React and Vue on some projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertsilva&layout=compact&hide=java&text_color=f8f8f2&bg_color=171c24)](https://github.com/hebertsilva)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hebertsilva&theme=dark)](https://git.io/streak-stats)
+
