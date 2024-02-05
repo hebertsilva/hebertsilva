@@ -1,6 +1,6 @@
 ### Hello word! 👋
 
-My name is Hebert Silva i'm from Brazil i'm an Software Engineer since 2007. I graduated in Science Computing at UNIFRAN in 2013 and Performing Arts in 2015 at Ribeirão em Cena.
+My name is Hebert Silva i'm from Brazil i'm an Software Engineer since 2007. I graduated in Science Computing at UNIFRAN in 2013 and Performing Arts in 2017 at Ribeirão em Cena.
 
 I'm working with React and Vue on some projects.
 
